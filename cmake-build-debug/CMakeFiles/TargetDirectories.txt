@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debug/CMakeFiles/CLASSROOM.dir
+C:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
