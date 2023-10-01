@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debu
 
 build cmake_object_order_depends_target_CLASSROOM: phony || CMakeFiles/CLASSROOM.dir
 
-build CMakeFiles/CLASSROOM.dir/VOWEL_OR_CONSONANT.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/VOWEL$ OR$ CONSONANT.c || cmake_object_order_depends_target_CLASSROOM
-  DEP_FILE = CMakeFiles\CLASSROOM.dir\VOWEL_OR_CONSONANT.c.obj.d
+build CMakeFiles/CLASSROOM.dir/pass_1-_12345.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/pass$ 1-$ 12345.c || cmake_object_order_depends_target_CLASSROOM
+  DEP_FILE = CMakeFiles\CLASSROOM.dir\pass_1-_12345.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
   OBJECT_FILE_DIR = CMakeFiles\CLASSROOM.dir
@@ -63,7 +63,7 @@ build CMakeFiles/CLASSROOM.dir/VOWEL_OR_CONSONANT.c.obj: C_COMPILER__CLASSROOM_u
 #############################################
 # Link the executable CLASSROOM.exe
 
-build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/VOWEL_OR_CONSONANT.c.obj
+build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/pass_1-_12345.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
