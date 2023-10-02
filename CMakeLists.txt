@@ -7,4 +7,5 @@ add_executable(CLASSROOM
       #  "DAY OF WEEK - SWITCH.c"
         #"Even numbers within a specific range.c"
        # "VOWEL OR CONSONANT.c"
-        "pass 1- 12345.c")
+       # "pass 1- 12345.c"
+        "discount.c")
