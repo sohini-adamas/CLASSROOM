@@ -11,4 +11,5 @@ add_executable(CLASSROOM
        # "discount.c"
        # "Multipication table.c"
        # "Digit or Character.c"
-        "Fibonacci.c")
+       # "Fibonacci.c"
+        "ALPHABET SERIES.c")
