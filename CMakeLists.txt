@@ -8,4 +8,5 @@ add_executable(CLASSROOM
         #"Even numbers within a specific range.c"
        # "VOWEL OR CONSONANT.c"
        # "pass 1- 12345.c"
-        "discount.c")
+       # "discount.c"
+        "Multipication table.c")
