@@ -9,4 +9,5 @@ add_executable(CLASSROOM
        # "VOWEL OR CONSONANT.c"
        # "pass 1- 12345.c"
        # "discount.c"
-        "Multipication table.c")
+       # "Multipication table.c"
+        "Digit or Character.c")

@@ -89,8 +89,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -99,12 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "discount.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Multiplication table of a number.cpp",
+			"path" : "Digit or Character.c",
 			"sourceGroupIndex" : 0
 		}
 	],
