@@ -10,4 +10,5 @@ add_executable(CLASSROOM
        # "pass 1- 12345.c"
        # "discount.c"
        # "Multipication table.c"
-        "Digit or Character.c")
+       # "Digit or Character.c"
+        "Fibonacci.c")

@@ -7,7 +7,7 @@ int main()
 {
     char ch;
     printf("enter your character:\n");
-    scanf("%c",&ch);
+    scanf("%c",& ch);
 
     if(isdigit(ch)){
         printf("Its a digit!!");
