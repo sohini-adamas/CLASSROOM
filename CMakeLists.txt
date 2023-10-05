@@ -14,4 +14,5 @@ add_executable(CLASSROOM
        # "Fibonacci.c"
         #"ALPHABET SERIES.c"
         #"Palindrome.c"
-        "hello world without loop.c")
+        #"hello world without loop.c"
+        "Pyramid.c")
