@@ -12,4 +12,6 @@ add_executable(CLASSROOM
        # "Multipication table.c"
        # "Digit or Character.c"
        # "Fibonacci.c"
-        "ALPHABET SERIES.c")
+        #"ALPHABET SERIES.c"
+        #"Palindrome.c"
+        "hello world without loop.c")
