@@ -15,4 +15,5 @@ add_executable(CLASSROOM
         #"ALPHABET SERIES.c"
         #"Palindrome.c"
         #"hello world without loop.c"
-        "Pyramid.c")
+        #"Pyramid.c"
+        "Number of digits in a number.c")
