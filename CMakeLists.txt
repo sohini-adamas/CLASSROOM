@@ -19,4 +19,5 @@ add_executable(CLASSROOM
        # "Number of digits in a number.c"
         #"swapping numbers using function.c"
        # "GREATEST NUMBER USING FUNCTION.c"
-        "SUM OF N NUMBERS USING FUNCTION.c")
+        #"SUM OF N NUMBERS USING FUNCTION.c"
+        "Check leap year using function.c")
