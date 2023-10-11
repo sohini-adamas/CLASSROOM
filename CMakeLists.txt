@@ -20,4 +20,5 @@ add_executable(CLASSROOM
         #"swapping numbers using function.c"
        # "GREATEST NUMBER USING FUNCTION.c"
         #"SUM OF N NUMBERS USING FUNCTION.c"
-        "Check leap year using function.c")
+        #"Check leap year using function.c"
+        "MY BESTO FRIENDO using function.c")
