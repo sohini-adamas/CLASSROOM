@@ -18,4 +18,5 @@ add_executable(CLASSROOM
         #"Pyramid.c"
        # "Number of digits in a number.c"
         #"swapping numbers using function.c"
-        "GREATEST NUMBER USING FUNCTION.c")
+       # "GREATEST NUMBER USING FUNCTION.c"
+        "SUM OF N NUMBERS USING FUNCTION.c")
