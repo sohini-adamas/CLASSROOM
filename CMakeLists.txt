@@ -16,4 +16,6 @@ add_executable(CLASSROOM
         #"Palindrome.c"
         #"hello world without loop.c"
         #"Pyramid.c"
-        "Number of digits in a number.c")
+       # "Number of digits in a number.c"
+        #"swapping numbers using function.c"
+        "GREATEST NUMBER USING FUNCTION.c")
