@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debu
 
 build cmake_object_order_depends_target_CLASSROOM: phony || CMakeFiles/CLASSROOM.dir
 
-build CMakeFiles/CLASSROOM.dir/MY_BESTO_FRIENDO_using_function.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/MY$ BESTO$ FRIENDO$ using$ function.c || cmake_object_order_depends_target_CLASSROOM
-  DEP_FILE = CMakeFiles\CLASSROOM.dir\MY_BESTO_FRIENDO_using_function.c.obj.d
+build CMakeFiles/CLASSROOM.dir/factorials_using_function.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/factorials$ using$ function.c || cmake_object_order_depends_target_CLASSROOM
+  DEP_FILE = CMakeFiles\CLASSROOM.dir\factorials_using_function.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
   OBJECT_FILE_DIR = CMakeFiles\CLASSROOM.dir
@@ -63,7 +63,7 @@ build CMakeFiles/CLASSROOM.dir/MY_BESTO_FRIENDO_using_function.c.obj: C_COMPILER
 #############################################
 # Link the executable CLASSROOM.exe
 
-build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/MY_BESTO_FRIENDO_using_function.c.obj
+build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/factorials_using_function.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
