@@ -23,4 +23,5 @@ add_executable(CLASSROOM
         #"Check leap year using function.c"
       #  "MY BESTO FRIENDO using function.c"
        # "factorials using function.c"
-        "Recursive.c")
+       # "Recursive.c"
+         "sum of n numbers using recursive.c")
