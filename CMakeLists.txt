@@ -24,4 +24,6 @@ add_executable(CLASSROOM
       #  "MY BESTO FRIENDO using function.c"
        # "factorials using function.c"
        # "Recursive.c"
-         "sum of n numbers using recursive.c")
+        # "sum of n numbers using recursive.c"
+        #"capture elements of array from user.c"
+        "traversal.c")

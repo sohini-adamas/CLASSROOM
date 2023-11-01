@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/USER/Documents/GitHub/CLASSROOM/cmake-build-debu
 
 build cmake_object_order_depends_target_CLASSROOM: phony || CMakeFiles/CLASSROOM.dir
 
-build CMakeFiles/CLASSROOM.dir/sum_of_n_numbers_using_recursive.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/sum$ of$ n$ numbers$ using$ recursive.c || cmake_object_order_depends_target_CLASSROOM
-  DEP_FILE = CMakeFiles\CLASSROOM.dir\sum_of_n_numbers_using_recursive.c.obj.d
+build CMakeFiles/CLASSROOM.dir/traversal.c.obj: C_COMPILER__CLASSROOM_unscanned_Debug C$:/Users/USER/Documents/GitHub/CLASSROOM/traversal.c || cmake_object_order_depends_target_CLASSROOM
+  DEP_FILE = CMakeFiles\CLASSROOM.dir\traversal.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
   OBJECT_FILE_DIR = CMakeFiles\CLASSROOM.dir
@@ -63,7 +63,7 @@ build CMakeFiles/CLASSROOM.dir/sum_of_n_numbers_using_recursive.c.obj: C_COMPILE
 #############################################
 # Link the executable CLASSROOM.exe
 
-build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/sum_of_n_numbers_using_recursive.c.obj
+build CLASSROOM.exe: C_EXECUTABLE_LINKER__CLASSROOM_Debug CMakeFiles/CLASSROOM.dir/traversal.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CLASSROOM.dir
