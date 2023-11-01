@@ -26,4 +26,5 @@ add_executable(CLASSROOM
        # "Recursive.c"
         # "sum of n numbers using recursive.c"
         #"capture elements of array from user.c"
-        "traversal.c")
+       # "traversal.c"
+        "recursive example.c")
