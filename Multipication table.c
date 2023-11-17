@@ -1,16 +1,18 @@
 //
 // Created by USER on 10/4/2023.
 //
-#include <stdio.h>
-int main ()
+#include<stdio.h>
+int main()
 {
-    int n,i=1;
-    printf("Enter the number you want a table for: \n");
+    int n;
+    printf("Enter the range:");
     scanf("%d",&n);
-    for(int i;i<=10;i++){
-        int product=n*i;
-        printf("%d x %d=%d",n,i,product);
-        printf("\n");
+    for(int i=1;i<=n;i++)
+    {
+        for(int j=1;j<=10;j++)
+        {
+            printf("%d * %d=%d\n",i,j,i*j);
+        }
+        printf("--------------------\n");
     }
-
 }

@@ -5,7 +5,7 @@
 int main ()
 {
     int n,temp1=1,temp2=1,backup=0;
-    printf("No. of rows you want to print:");
+    printf("No. of rows you want to print: ");
     scanf("%d",&n);
 
     for(int i=1;i<=n;i++){

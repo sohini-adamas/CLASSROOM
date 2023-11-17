@@ -10,6 +10,7 @@ add_executable(CLASSROOM
        # "pass 1- 12345.c"
        # "discount.c"
        # "Multipication table.c"
+        "Student info.c")
        # "Digit or Character.c"
        # "Fibonacci.c"
         #"ALPHABET SERIES.c"
@@ -27,4 +28,5 @@ add_executable(CLASSROOM
         # "sum of n numbers using recursive.c"
         #"capture elements of array from user.c"
        # "traversal.c"
-        "recursive example.c")
+       # "recursive example.c"
+        #"uppercase lower case.c")
