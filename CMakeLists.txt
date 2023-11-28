@@ -12,7 +12,8 @@ add_executable(CLASSROOM
        # "Multipication table.c"
        # "Student info.c"
         #"r1.c"
-        "practice 1 (pattern).c")
+       # "practice 1 (pattern).c"
+        "armstrong number.c")
        # "Digit or Character.c"
        # "Fibonacci.c"
         #"ALPHABET SERIES.c"
