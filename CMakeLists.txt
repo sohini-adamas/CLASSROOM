@@ -15,7 +15,9 @@ add_executable(CLASSROOM
        # "practice 1 (pattern).c"
         #"armstrong number.c"
         #"practice 2(pallindrome).c"
-        "bubble sorting.c")
+        #"bubble sorting.c"
+        #"amicable.c"
+        "decimal to binary.c")
        # "Digit or Character.c"
        # "Fibonacci.c"
         #"ALPHABET SERIES.c"
